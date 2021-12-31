@@ -1,3 +1,3 @@
 # andrasnak
 # kis programozó leszek
-#vicc eleje
+#vicc vege
