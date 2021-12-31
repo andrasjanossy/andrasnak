@@ -1,10 +1,9 @@
 # andrasnak
+
 # kis programozó leszek
-#vicc vege
+# vicc eleje
 
-
-
-
+  igy legyen
 
 
 # ez uj
